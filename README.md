@@ -88,6 +88,5 @@ This project demonstrates the ability to design a complete automated system usin
 Further improvement is planned in coding and macro development.  
 
 
-9) References
-Programming Code (2020). *Access Database Programmer: Creating Login Form on Access Using VBA*. YouTube.  
+ 
 
